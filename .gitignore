@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+Scripts
+Lib
+__init__.py
+*.zip
+*.db
+*.cfg
